@@ -10,6 +10,7 @@ E:\WorkSpace\lavemobile\src\main\java\com\hipertecnologia\lavemobile\security\JW
 E:\WorkSpace\lavemobile\src\main\java\com\hipertecnologia\lavemobile\LavemobileApplication.java
 E:\WorkSpace\lavemobile\src\main\java\com\hipertecnologia\lavemobile\repositories\PassadorRepository.java
 E:\WorkSpace\lavemobile\src\main\java\com\hipertecnologia\lavemobile\services\exception\DataIntegrityException.java
+E:\WorkSpace\lavemobile\src\main\java\com\hipertecnologia\lavemobile\config\ProdConfig.java
 E:\WorkSpace\lavemobile\src\main\java\com\hipertecnologia\lavemobile\services\exception\ObjectNotFoundException.java
 E:\WorkSpace\lavemobile\src\main\java\com\hipertecnologia\lavemobile\services\FuncionarioService.java
 E:\WorkSpace\lavemobile\src\main\java\com\hipertecnologia\lavemobile\repositories\PassadorItemRepository.java
